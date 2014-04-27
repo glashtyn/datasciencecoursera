@@ -7,6 +7,6 @@ $ cd ~/Hello-World
 $ git init
 # set up necessary Git files
 $ touch READ ME
-$ create file "READ ME" in Hello-World dir
+# create file "READ ME" in Hello-World dir
 
 
